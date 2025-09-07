@@ -2,7 +2,7 @@
 
 ## 🛠 About Me
 
-- **DevSecOps Engineer** at [TVOЁ.LIVE](https://tvoe.live)
+- **DevOps Engineer** at [TVOЁ.LIVE](https://tvoe.live)
 - Deepening my knowledge in `Security`, `Architecture` & `Development`
 - Learning `System Design` and `Cloud Native` for scalable systems.
 
