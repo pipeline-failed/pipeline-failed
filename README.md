@@ -10,8 +10,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pipeline_failed)
 ## 🚀 Interests
 
-- ☁️ **DevOps & Site Reliability Engineering (SRE)**
-- 🔒 **Security & System Hardening**
+- ☁️ **DevOps & SRE**
 - 🛠️ **Platform Engineering**
+- 🔒 **Security & System Hardening**
 - 🏗️ **System Architecture**
 
