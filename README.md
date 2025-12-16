@@ -31,8 +31,3 @@ I combine DevOps practices with Platform Engineering principles. I design robust
 
 <br>
 <br>
-
-<p align="right" style="font-family: monospace; color: #999;">
-  SYSTEM_ID: OPS_CORE_01 <br>
-  EXIT_CODE: 0 (OK)
-</p>
